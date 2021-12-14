@@ -130,6 +130,6 @@ else:
 #expressao ? verdadeiro : falso
 #x>=10? a=1 : a=5
 
-a = 1 if x>=10 else a=5
+# a = 1 if x >=10 else a=5
     
 
